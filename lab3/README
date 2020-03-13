@@ -1,0 +1,25 @@
+This is README.
+compile:
+	make
+
+
+
+Case 100000:
+sort(): 0.006973 seconds
+v1/v2 are different.
+insertion_sort(): 44.7552 seconds
+v1/v2 are the same.
+
+Case 10000:
+sort(): 0.000745 seconds
+v1/v2 are different.
+insertion_sort(): 0.446912 seconds
+v1/v2 are the same.
+
+Case 1000:
+sort(): 8.6e-05 seconds
+v1/v2 are different.
+insertion_sort(): 0.005859 seconds
+v1/v2 are the same.
+
+result :insertion sort need more time than sort()
